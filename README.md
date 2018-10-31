@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Gurel et al., "Cryo-EM structures reveal specialization at the myosin VI-actin interface and a mechanism of force sensitivity". eLife, 2017. http://dx.doi.org/10.7554/eLife.31125
+
 # goldhelix
 Software for cryo-EM structural analysis of helical filaments
 
